@@ -1,4 +1,4 @@
-# Customer Analysis With Looker Studio
+# Financial Institution Customer Analysis
 
 
 ![](Dash-Financial_Institution_Customer_Analysis.jpg)
