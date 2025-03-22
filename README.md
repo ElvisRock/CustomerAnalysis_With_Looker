@@ -33,3 +33,25 @@ Below is a brief description of the key metrics used:
 6. **Customers Campaign**  
    Refers to the analysis of marketing campaigns targeted toward customers, tracking their effectiveness or response rates.  
    *Helps evaluate which campaigns generate higher engagement, identify strategies that resonate with customers, and optimize future marketing efforts.*
+
+
+
+
+
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   |
+   https://lookerstudio.google.com/reporting/5d2272b9-59d1-4268-a0a1-a82b7f470937
