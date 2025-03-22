@@ -1,4 +1,4 @@
-# CustomerAnalysis_With_Looker
+# CustomerAnalysis With Looker Studio
 
-Dash-Financial_Institution_Customer_Analysis.jpg
-![](Python-Excel.jpeg)
+
+![](Dash-Financial_Institution_Customer_Analysis.jpg)
