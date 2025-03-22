@@ -1,4 +1,4 @@
 # CustomerAnalysis_With_Looker
 
-![](Dash-Financial Institution Customer Analysis.JPG)
+Dash-Financial_Institution_Customer_Analysis.jpg
 ![](Python-Excel.jpeg)
