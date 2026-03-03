@@ -1,5 +1,8 @@
 # Financial Institution Customer Analysis
 
+### **Target:** The goal was to explore and learn about this incredible tool.
+
+13/01/2025
 
 ![](Dash-Financial_Institution_Customer_Analysis.jpg)
 
