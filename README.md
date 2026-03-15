@@ -41,20 +41,4 @@ Below is a brief description of the key metrics used:
 
 
 
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
-   |
 🎥 [Take a look here](https://www.youtube.com/watch?v=1xvDsFCjr3U)
