@@ -38,7 +38,12 @@ Below is a brief description of the key metrics used:
    *Helps evaluate which campaigns generate higher engagement, identify strategies that resonate with customers, and optimize future marketing efforts.*
 
 
+_____
+
+#### Documentation: 
+   - [Ipython](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html) 
 
 
-
+_____
+#### View
 🎥 [Take a look here](https://www.youtube.com/watch?v=1xvDsFCjr3U)
